@@ -64,3 +64,4 @@ D:\Workout\gittest\DevOpsWebApplication\DevOpsWebApplication\bin\Microsoft.AI.Wi
 D:\Workout\gittest\DevOpsWebApplication\DevOpsWebApplication\bin\Microsoft.AI.Web.xml
 D:\Workout\gittest\DevOpsWebApplication\DevOpsWebApplication\obj\Debug\DevOpsWebApplication.dll
 D:\Workout\gittest\DevOpsWebApplication\DevOpsWebApplication\obj\Debug\DevOpsWebApplication.pdb
+D:\Workout\gittest\DevOpsWebApplication\DevOpsWebApplication\obj\Debug\DevOpsWebApplication.csprojResolveAssemblyReference.cache
